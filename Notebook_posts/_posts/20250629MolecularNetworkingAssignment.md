@@ -2,8 +2,8 @@
 
 ## Molecular Family Explored
 
-Cluster: 2498  
-Node 2390: Bromocriptine  
+Cluster: 2386  
+Node 2386: Bromocriptine  
 Parent mass: 654.228  
 Library hit: Yes  
 
