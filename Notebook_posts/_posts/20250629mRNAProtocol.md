@@ -1,12 +1,12 @@
 # **mRNA preparation**
 
-_Cleaning the whole table and pipettors with RNAse cleaner_
+## Cleaning the whole table and pipettors with RNAse cleaner
 
-SM30:GFP conc. 207.6 ng/uL
+__SM30:GFP conc. 207.6 ng/uL__
 
-SM50:GFP conc. 189.4 ng/uL
+_SM50:GFP conc. 189.4 ng/uL_
 
-eGFP conc. 78.9 ng/uL
+___eGFP conc. 78.9 ng/uL___
 
 |     | SM30 | SM30 | eGFP | ARG | FCB |
 | --- | --- | --- | --- | --- | --- |
@@ -72,13 +72,17 @@ SM50:GFP: 1648.2 ng/uL
 
 eGFP: 2838.1 ng/uL
 
-![Death rate graph](https://github.com/NirikshanM/Reserch-Methods/blob/main/Images/IMG20250312081051.png)
+### Image
+
+![Image](https://github.com/NirikshanM/Reserch-Methods/blob/main/Images/IMG20250312081051.png)
 
 Figure 1: Image of Red Canyon, Eilat, Israel
 
 Link to Paper: <https://www.pnas.org/doi/abs/10.1073/pnas.2408628121>
 
 Chemical link: <https://www.thermofisher.com/order/catalog/product/AM1348>
+
+### Graph
 
 ![Death rate graph](https://github.com/NirikshanM/Reserch-Methods/blob/main/Images/mm7326a3-F.png)
 
