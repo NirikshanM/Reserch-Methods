@@ -1,4 +1,4 @@
-##**mRNA preparation**
+# **mRNA preparation**
 
 _Cleaning the whole table and pipettors with RNAse cleaner_
 
