@@ -8,6 +8,8 @@ _SM50:GFP conc. 189.4 ng/uL_
 
 ___eGFP conc. 78.9 ng/uL___
 
+### Reaction Protocol
+
 |     | SM30 | SM30 | eGFP | ARG | FCB |
 | --- | --- | --- | --- | --- | --- |
 | Template | 2.5uL | 2.7uL | 6uL | Messi | Messi |
@@ -32,7 +34,7 @@ Poly-A tailing reaction
 
 Clean the table again
 
-Reaction mix (same for all 3 samples)
+### Reaction mix (same for all 3 samples)
 
 | Reaction from previous reaction | 10 uL |
 | --- | --- |
