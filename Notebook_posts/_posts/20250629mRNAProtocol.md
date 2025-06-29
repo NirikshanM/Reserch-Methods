@@ -16,7 +16,7 @@ ___eGFP conc. 78.9 ng/uL___
 | Enzyme | 2   | 2   | 2   | Messi | Messi |
 | H<sub>2</sub>O | 3.5 | 3.3 | 0   | Messi | Messi |
 
-Vortex reaction buffer and 2x CAP
+<ins>Vortex reaction buffer and 2x CAP</ins>
 
 Reaction mix (Above table)
 
