@@ -1,12 +1,12 @@
-# **mRNA preparation**
+# mRNA preparation
 
 ## Cleaning the whole table and pipettors with RNAse cleaner
 
-__SM30:GFP conc. 207.6 ng/uL__
+**SM30:GFP conc. 207.6 ng/uL**
 
-_SM50:GFP conc. 189.4 ng/uL_
+*SM50:GFP conc. 189.4 ng/uL*
 
-___eGFP conc. 78.9 ng/uL___
+<ins>eGFP conc. 78.9 ng/uL</ins>
 
 ### Reaction Protocol
 
@@ -18,7 +18,7 @@ ___eGFP conc. 78.9 ng/uL___
 | Enzyme | 2   | 2   | 2   | Messi | Messi |
 | H<sub>2</sub>O | 3.5 | 3.3 | 0   | Messi | Messi |
 
-<ins>Vortex reaction buffer and 2x CAP</ins>
+Vortex reaction buffer and 2x CAP
 
 Reaction mix (Above table)
 
