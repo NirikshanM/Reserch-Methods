@@ -2,6 +2,8 @@
 
 ## Cleaning the whole table and pipettors with RNAse cleaner
 
+<ins>***Conc. of DNA***</ins>  
+
 **SM30:GFP conc. : 207.6 ng/uL**
 
 *SM50:GFP conc. : 189.4 ng/uL*
