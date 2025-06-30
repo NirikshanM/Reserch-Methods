@@ -2,11 +2,11 @@
 
 ## Cleaning the whole table and pipettors with RNAse cleaner
 
-**SM30:GFP conc. 207.6 ng/uL**
+**SM30:GFP conc. : 207.6 ng/uL**
 
-*SM50:GFP conc. 189.4 ng/uL*
+*SM50:GFP conc. : 189.4 ng/uL*
 
-<ins>eGFP conc. 78.9 ng/uL</ins>
+<ins>eGFP conc. : 78.9 ng/uL</ins>
 
 ### Reaction Protocol
 
@@ -22,9 +22,9 @@ Vortex reaction buffer and 2x CAP
 
 Reaction mix (Above table)
 
-Mix by flicking (no vortex)
+Mix by flicking (No vortex)
 
-Incubate at 37 °C for 4 hrs
+Incubate at 37 °C for 2 hrs
 
 1uL Turbo DNA mix
 
@@ -48,11 +48,11 @@ Make the reaction mix
 
 Incubate at 37 °C for 1 hr
 
-Run in the jel
+Run in the gel
 
 Precipitation of the mRNA
 
-30 uL of LICl<sub>2</sub> , overnight in -20
+30 uL of LICl<sub>2</sub> , overnight in -20 °C
 
 Centrifuge at full speed for 30 min
 
@@ -66,11 +66,11 @@ Air dry on ice
 
 20 uL of nuclease-free H<sub>2</sub>O
 
-Measure conc.
+Measure the concentration of mRNA
 
 SM30:GFP : 1552.9 ng/uL
 
-SM50:GFP: 1648.2 ng/uL
+SM50:GFP : 1648.2 ng/uL
 
 eGFP: 2838.1 ng/uL
 
@@ -78,14 +78,14 @@ eGFP: 2838.1 ng/uL
 
 ![Image](https://github.com/NirikshanM/Reserch-Methods/blob/main/Images/IMG20250312081051.png)
 
-Figure 1: Image of Red Canyon, Eilat, Israel
+**Figure 1:** Image of Red Canyon, Eilat, Israel
 
-Link to Paper: <https://www.pnas.org/doi/abs/10.1073/pnas.2408628121>
+**Link to Paper:** <https://www.pnas.org/doi/abs/10.1073/pnas.2408628121>
 
-Chemical link: <https://www.thermofisher.com/order/catalog/product/AM1348>
+__Chemical link:__ <https://www.thermofisher.com/order/catalog/product/AM1348>
 
 ### Graph
 
 ![Death rate graph](https://github.com/NirikshanM/Reserch-Methods/blob/main/Images/mm7326a3-F.png)
 
-Graph 1: Year-wise death rate in the US
+**Graph 1:** Year-wise death rate in the US
